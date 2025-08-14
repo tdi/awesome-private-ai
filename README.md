@@ -117,6 +117,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [OpenFL](https://github.com/IntelLabs/openfl) - Federated learning framework.
 - [Flower](https://flower.dev) - Federated learning at scale.
 - [Concrete](https://github.com/zama-ai/concrete) - Fully homomorphic encryption for AI.
+- [CONFSEC](https://confident.security/managed) - Provably private AI inference -- Apple's PCC for everyone else.
 
 
 
