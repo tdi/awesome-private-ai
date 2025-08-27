@@ -27,6 +27,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 > Engines and frameworks to run LLMs, vision, and multimodal models locally.
 
 - [vLLM](https://github.com/vllm-project/vllm) - High-throughput, low-latency inference engine for LLMs.
+- [whisper.cpp](https://github.com/ggml-org/whisper.cpp) - C++ port of OpenAI's Whisper automatic speech recognition model, optimized for local, CPU/GPU inference without internet connectivity.
 - [mlx-lm](https://github.com/ml-explore/mlx-lm) - Fast, Apple Silicon-optimized LLM inference engine for running models locally and privately.
 - [Jan](https://jan.ai/) - Privacy-first, offline AI assistant and LLM runtime for local, secure inference.
 - [LM Studio](https://lmstudio.ai/) - Cross-platform desktop app for running local LLMs with an easy-to-use interface.
