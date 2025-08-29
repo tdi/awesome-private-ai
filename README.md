@@ -87,6 +87,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 
 - [Crush](https://github.com/charmbracelet/crush) - Privacy-first, open-source agentic coding and automation platform for local AI workflows.
 - [OpenCode AI](https://opencode.ai/) - Open-source agentic coding platform for private, local, and secure AI-powered development workflows. 
+- [PydanticAI](https://github.com/pydantic/pydantic-ai) - Python agent framework by the Pydantic team, model-agnostic with Ollama support for local deployment.
 - [sglang](https://github.com/sgl-project/sglang) - Fast, privacy-first LLM inference and programming language for building composable, local AI workflows.
  - [dspy](https://github.com/stanfordnlp/dspy) - Modular, open-source agent framework for building composable, private LLM applications and workflows.
 - [CUA](https://github.com/trycua/cua) -  enables AI agents to control full operating systems in virtual containers and deploy them locally or to the cloud.
