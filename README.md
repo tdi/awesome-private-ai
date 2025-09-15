@@ -100,8 +100,9 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 > Privacy-first, open-source agentic coding plugins and extensions for VS Code and other editors.
 
 
-- [Roo Code](https://github.com/RooCodeInc/Roo-Code) - Privacy-first, open-source agentic coding platform for secure, local AI development (VS Code extension).
 - [cline](https://github.com/cline/cline) - Privacy-first, open-source agentic coding platform for local AI workflows and automation (VS Code extension).
+- [DeepCode](https://github.com/HKUDS/DeepCode) - AI-powered code analysis and development tool supporting local deployment for private code intelligence.
+- [Roo Code](https://github.com/RooCodeInc/Roo-Code) - Privacy-first, open-source agentic coding platform for secure, local AI development (VS Code extension).
 
 
 
