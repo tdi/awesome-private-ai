@@ -78,6 +78,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 > Frameworks for chaining private AI tools & agents.
 
 - [AG2](https://github.com/ag2ai/ag2) - Open-source operating system for agentic AI with native Ollama support for local model deployment and multi-agent collaboration.
+- [agentgateway](https://github.com/agentgateway/agentgateway) - Gateway for managing and orchestrating AI agents with support for local deployment.
 - [LangChain](https://www.langchain.com/) - Agent and LLM orchestration framework.
 - [Langflow](https://github.com/langflow-ai/langflow) - Visual workflow builder for creating and deploying AI-powered agents and workflows with built-in API servers.
 - [Haystack](https://haystack.deepset.ai) - End-to-end RAG pipelines.
