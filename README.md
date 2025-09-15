@@ -84,6 +84,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [Haystack](https://haystack.deepset.ai) - End-to-end RAG pipelines.
 - [Flowise](https://github.com/FlowiseAI/Flowise) - No-code LangChain UI.
 - [LlamaIndex](https://www.llamaindex.ai) - Data framework for LLM apps.
+- [MetaGPT](https://github.com/FoundationAgents/MetaGPT) - Multi-agent framework for building collaborative AI systems with role-based agents that can work together on complex tasks.
 - [Trae Agent](https://github.com/bytedance/trae-agent) - Privacy-friendly agent framework for orchestrating LLMs and tools, designed for secure, local, and scalable AI workflows.
 - [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Open-source, privacy-friendly agent framework for orchestrating LLMs and tools, designed for secure, local, and scalable AI workflows.
 
