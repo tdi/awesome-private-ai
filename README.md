@@ -95,6 +95,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
  - [dspy](https://github.com/stanfordnlp/dspy) - Modular, open-source agent framework for building composable, private LLM applications and workflows.
 - [CUA](https://github.com/trycua/cua) -  enables AI agents to control full operating systems in virtual containers and deploy them locally or to the cloud.
 - [Bytebot](https://github.com/bytebot-ai/bytebot) - A desktop agent is an AI that has its own computer. Unlike browser-only agents or traditional RPA tools, Bytebot comes with a full virtual desktop.
+- [DiscoClaw](https://github.com/DiscoClaw/discoclaw) - Personal AI orchestrator that turns Discord into a persistent workspace, coordinating between Claude Code and local system resources with durable memory, task tracking, and cron-based automation.
 
 
 ## VS Code Plugins & Extensions
