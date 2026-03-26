@@ -54,6 +54,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [BentoML](https://www.bentoml.com/) - Model packaging & serving framework.
 - [vLLM Production Stack](https://github.com/vllm-project/production-stack) - End-to-end stack for deploying vLLM in production, including orchestration, monitoring, autoscaling, and best practices for private LLM serving.
 - [OME (Open Model Engine)](https://docs.sglang.ai/ome/) - Unified, open-source engine for serving, managing, and scaling LLMs and multimodal models privately. Supports sglang, vLLM, and more.
+- [Prefactor](https://prefactor.tech/) - AI agent runtime control plane with runtime visibility, governance, and policy enforcement for AI agents in production, integrating with LangChain, CrewAI, and more.
 
 ## Fine-Tuning & Adapters
 > Private workflows for adapting models to your needs.
