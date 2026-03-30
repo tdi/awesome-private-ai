@@ -141,6 +141,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced web UI for LLMs.
 - [AnythingLLM](https://anythingllm.com/) - Full-stack private LLM workspace.
 - [Open WebUI](https://github.com/open-webui/open-webui) - Commonly recommended Web UI frontend which features built in search, web scrape, RAG, and optional user authentication.
+- [Locally Uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - Privacy-first desktop app (Tauri + React) for local AI chat via Ollama and image/video generation via ComfyUI. Runs entirely offline with no data leaving your machine.
 
 
 
