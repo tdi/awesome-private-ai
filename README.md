@@ -87,6 +87,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [MetaGPT](https://github.com/FoundationAgents/MetaGPT) - Multi-agent framework for building collaborative AI systems with role-based agents that can work together on complex tasks.
 - [Trae Agent](https://github.com/bytedance/trae-agent) - Privacy-friendly agent framework for orchestrating LLMs and tools, designed for secure, local, and scalable AI workflows.
 - [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) - Open-source, privacy-friendly agent framework for orchestrating LLMs and tools, designed for secure, local, and scalable AI workflows.
+- [vimin-core](https://github.com/pberlizov/vimin-public) - Orchestrate distributed local LLM and Whisper inference across up to 10 machines. No cloud, no telemetry. MLX on Apple Silicon, llama.cpp everywhere else. Built for air-gapped networks and privacy-sensitive environments. MIT.
 
 - [Crush](https://github.com/charmbracelet/crush) - Privacy-first, open-source agentic coding and automation platform for local AI workflows.
 - [OpenCode AI](https://opencode.ai/) - Open-source agentic coding platform for private, local, and secure AI-powered development workflows. 
