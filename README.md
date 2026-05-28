@@ -114,6 +114,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [OpenFL](https://github.com/IntelLabs/openfl) - Federated learning framework.
 - [Flower](https://flower.dev) - Federated learning at scale.
 - [Concrete](https://github.com/zama-ai/concrete) - Fully homomorphic encryption for AI.
+- [Future AGI](https://github.com/future-agi/future-agi) - Open-source self-hostable end-to-end agent engineering and optimization platform unifying tracing, evaluation, simulation, datasets, gateway, and guardrails in one feedback loop.
 
 
 
