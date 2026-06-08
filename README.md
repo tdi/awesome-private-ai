@@ -114,6 +114,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [OpenFL](https://github.com/IntelLabs/openfl) - Federated learning framework.
 - [Flower](https://flower.dev) - Federated learning at scale.
 - [Concrete](https://github.com/zama-ai/concrete) - Fully homomorphic encryption for AI.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments — prevents impersonation in autonomous agent systems. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 
 
