@@ -95,6 +95,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
  - [dspy](https://github.com/stanfordnlp/dspy) - Modular, open-source agent framework for building composable, private LLM applications and workflows.
 - [CUA](https://github.com/trycua/cua) -  enables AI agents to control full operating systems in virtual containers and deploy them locally or to the cloud.
 - [Bytebot](https://github.com/bytebot-ai/bytebot) - A desktop agent is an AI that has its own computer. Unlike browser-only agents or traditional RPA tools, Bytebot comes with a full virtual desktop.
+- [CorvinOS](https://github.com/CorvinLabs/CorvinOS) - Self-hosted agentic OS that connects local Ollama models and cloud providers to Discord, Telegram, WhatsApp, Slack, and Email. EU AI Act 2026 and GDPR compliance are structural constraints built into the architecture — bot-disclosure, consent gate, hash-chained audit log, and right-to-erasure orchestrator cannot be disabled by configuration.
 
 
 ## VS Code Plugins & Extensions
@@ -114,6 +115,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [OpenFL](https://github.com/IntelLabs/openfl) - Federated learning framework.
 - [Flower](https://flower.dev) - Federated learning at scale.
 - [Concrete](https://github.com/zama-ai/concrete) - Fully homomorphic encryption for AI.
+- [CorvinOS](https://github.com/CorvinLabs/CorvinOS) - Self-hosted agentic OS with EU AI Act 2026 and GDPR compliance built into the architecture. Bot-disclosure (Art. 50), consent gate (Art. 6/7), hash-chained audit log (Art. 30/32), and GDPR erasure orchestrator (Art. 17) are structural constraints — none can be disabled by configuration or environment variable.
 
 
 
