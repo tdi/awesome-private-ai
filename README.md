@@ -140,6 +140,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) - Open-source ChatGPT clone.
 - [LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced web UI for LLMs.
 - [AnythingLLM](https://anythingllm.com/) - Full-stack private LLM workspace.
+- [happysnaker/qq-ai-bot](https://github.com/happysnaker/qq-ai-bot) - Self-hosted QQ ↔ AI bridge for OneBot 11 / NapCat / LLOneBot that connects ACP-compatible local agents with private deployment, session persistence, and progress streaming.
 - [Open WebUI](https://github.com/open-webui/open-webui) - Commonly recommended Web UI frontend which features built in search, web scrape, RAG, and optional user authentication.
 
 
