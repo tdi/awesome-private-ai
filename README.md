@@ -54,6 +54,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [BentoML](https://www.bentoml.com/) - Model packaging & serving framework.
 - [vLLM Production Stack](https://github.com/vllm-project/production-stack) - End-to-end stack for deploying vLLM in production, including orchestration, monitoring, autoscaling, and best practices for private LLM serving.
 - [OME (Open Model Engine)](https://docs.sglang.ai/ome/) - Unified, open-source engine for serving, managing, and scaling LLMs and multimodal models privately. Supports sglang, vLLM, and more.
+- [lilbee](https://github.com/tobocop2/lilbee) - Local-first, single-binary model manager and search engine: runs a llama-server fleet sized by gguf-parser (or uses your Ollama/LM Studio) and answers over your files and code with citations.
 
 ## Fine-Tuning & Adapters
 > Private workflows for adapting models to your needs.
