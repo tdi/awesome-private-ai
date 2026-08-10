@@ -141,7 +141,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced web UI for LLMs.
 - [AnythingLLM](https://anythingllm.com/) - Full-stack private LLM workspace.
 - [Open WebUI](https://github.com/open-webui/open-webui) - Commonly recommended Web UI frontend which features built in search, web scrape, RAG, and optional user authentication.
-- [Off Grid AI Desktop](https://getoffgridai.co/desktop) - Private, local-first macOS desktop app running local LLM chat, image generation, whisper dictation, and RAG entirely on-device via llama.cpp; nothing leaves the machine. AGPL-3.0.
+- [Off Grid AI Desktop](https://github.com/off-grid-ai/OGAD) - Private, local-first macOS desktop app running local LLM chat, image generation, whisper dictation, and RAG entirely on-device via llama.cpp; nothing leaves the machine. AGPL-3.0.
 
 
 
