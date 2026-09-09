@@ -161,6 +161,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [DeepEval](https://github.com/confident-ai/deepeval) - Unit-testing framework for LLM outputs, with metrics that can run against locally hosted judge models.
 - [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - The standard harness for benchmarking language models, supporting local vLLM and Hugging Face backends.
 - [Phoenix](https://github.com/Arize-ai/phoenix) - Self-hosted tracing, evaluation, and experiment tracking for LLM applications.
+- [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - Records an agent at the HTTP boundary and serves the recording back, so a run reproduces with the model server switched off; traces are files in the project and nothing is uploaded.
 
 
 ## Models for Private Deployment
