@@ -189,7 +189,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [Lobe Chat](https://github.com/lobehub/lobe-chat) - Modern self-hosted chat framework with plugin and multimodal support, deployable in one click against local backends.
 - [text-generation-webui](https://github.com/oobabooga/text-generation-webui) - Long-standing Gradio web UI for local text generation, supporting llama.cpp, ExLlama, and transformers backends.
 - [SillyTavern](https://github.com/SillyTavern/SillyTavern) - Self-hosted, highly customizable frontend for local models, with extensive character, prompt, and context management.
-- [Screenpipe](https://github.com/screenpipe/screenpipe) - 24/7 local screen + microphone recording with OCR, audio transcription, and semantic search. Fully offline with Ollama or any local LLM. MCP server for Claude.
+- [Screenpipe](https://github.com/screenpipe/screenpipe) - Source-available screen/audio history with local search and MCP; supports local Whisper transcription and Ollama, while configured cloud AI, transcription, sync, or integrations can send context off-device.
 
 
 ## Image & Video Generation
