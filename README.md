@@ -151,6 +151,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [garak](https://github.com/NVIDIA/garak) - LLM vulnerability scanner that probes local models for prompt injection, jailbreaks, and data leakage.
 - [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails) - Add programmable topical and safety rails to LLM applications, running alongside self-hosted models.
 - [LLM Guard](https://github.com/protectai/llm-guard) - Input and output scanning toolkit covering prompt injection, PII, toxicity, and secrets leakage.
+- [OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault) - Archive of what agent harnesses put in the prompt before you type, recorded off the wire. Useful before self-hosting one: Claude Code ships a `gitStatus` block of your branch, recent commits and working-tree state (about 4 KB), and declares 35 tools interactively against 29 under `claude -p`.
 
 
 ## Observability & Evaluation
