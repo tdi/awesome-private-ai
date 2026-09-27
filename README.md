@@ -35,6 +35,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [mlx-lm](https://github.com/ml-explore/mlx-lm) - Fast, Apple Silicon-optimized LLM inference engine for running models locally and privately.
 - [oMLX](https://github.com/jundot/omlx) - macOS-native MLX inference server with paged SSD KV caching and continuous batching. Serves LLM, VLM, embedding, and reranker models over OpenAI- and Anthropic-compatible endpoints for local coding agents on Apple Silicon.
 - [Jan](https://jan.ai/) - Privacy-first, offline AI assistant and LLM runtime for local, secure inference.
+- [jevos](https://github.com/feder-cr/jev) - Self-hosted, CPU-only yes/no decision model server with a Jev-compatible HTTP API. One forward pass, no text generation, for local routing, triage, and policy checks.
 - [LM Studio](https://lmstudio.ai/) - Cross-platform desktop app for running local LLMs with an easy-to-use interface.
 - [Cherry Studio](https://github.com/CherryHQ/cherry-studio) - Powerful and customizable cross-platform desktop app for LLM inference with built in web search, RAG, MCP support, and a quick assistant hotkey to summon your LLM from anywhere. Supports a wide variety of providers and OpenAI compatible endpoints for local inference.
 - [LLM-D](https://llm-d.ai/) - Privacy-first, distributed LLM inference engine for scalable, local deployments.
