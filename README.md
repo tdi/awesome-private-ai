@@ -231,6 +231,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [ML Engineering Open Book](https://github.com/stas00/ml-engineering) - Field-tested notes on training and serving large models: hardware, parallelism, throughput, and debugging.
 - [LLM Course](https://github.com/mlabonne/llm-course) - Roadmap and notebooks covering LLM fundamentals, fine-tuning, quantization, and deployment.
 - [Smol Course](https://github.com/huggingface/smol-course) - Hugging Face's practical course on aligning and fine-tuning small models that fit on local hardware.
+- [Private AI Inference: Five Levels](https://ownyourmind.ai/why-deai/private-ai-inference/) - Guide to who can read your prompt, from plaintext logging to TEEs and local models, with WireTap and TEE.fail covered.
 
 
 ## AI Routers & API Aggregators
