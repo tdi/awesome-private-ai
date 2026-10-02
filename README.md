@@ -62,6 +62,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [Seldon Core](https://github.com/SeldonIO/seldon-core) - Kubernetes-native model deployment.
 - [KServe](https://kserve.github.io/website/) - Serverless model inference on Kubernetes.
 - [BentoML](https://www.bentoml.com/) - Model packaging & serving framework.
+- [Self-Hosted AI Stack](https://github.com/hwdsl2/self-hosted-ai-stack) - Docker Compose stack for private AI with local Ollama inference, a LiteLLM gateway, RAG, voice, and MCP tools.
 - [Triton Inference Server](https://github.com/triton-inference-server/server) - NVIDIA's multi-framework inference server, supporting TensorRT, PyTorch, ONNX, and vLLM backends behind one endpoint.
 - [Xinference](https://github.com/xorbitsai/inference) - Serve and manage LLM, embedding, rerank, image, and audio models in one self-hosted cluster with an OpenAI-compatible API.
 - [vLLM Production Stack](https://github.com/vllm-project/production-stack) - End-to-end stack for deploying vLLM in production, including orchestration, monitoring, autoscaling, and best practices for private LLM serving.
