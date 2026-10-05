@@ -129,6 +129,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [MFS](https://github.com/zilliztech/mfs) - Exposes your code, docs, chat (Slack/Gmail/Jira), databases and object stores as one file-like, searchable namespace for agents (`ls`/`cat`/`grep` + semantic search); runs fully local with on-device ONNX embeddings on Milvus, no API key.
 - [DeepCode](https://github.com/HKUDS/DeepCode) - Open agentic coding framework that turns papers and specs into working code (Paper2Code, Text2Web, Text2Backend), running against local Ollama or vLLM backends.
 - [Skales](https://github.com/skalesapp/skales) - Source-available (BSL 1.1) local-first desktop AI agent that runs fully on-device, offline via Ollama or with 15+ providers; your files never leave your machine, no cloud required.
+- [OpenAmer](https://github.com/openamer/openamer) - Windows-native autonomous agent that runs 100% locally and drives the real desktop (filesystem, terminal, GUI, browser via the Chrome DevTools Protocol), with in-process cognition tools and an A2A mesh for peer-to-peer work routing between instances.
 
 
 ## VS Code Plugins & Extensions
