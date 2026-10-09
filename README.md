@@ -120,6 +120,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [Crush](https://github.com/charmbracelet/crush) - Privacy-first, open-source agentic coding and automation platform for local AI workflows.
 - [OpenCode AI](https://opencode.ai/) - Open-source agentic coding platform for private, local, and secure AI-powered development workflows.
 - [Orkas](https://github.com/Orkas-AI/Orkas) - Open-source, local-first desktop AI workforce whose Commander coordinates specialist agents through one chat; model calls can use a compatible local endpoint.
+- [Portable Hermes Agent](https://github.com/aivrar/portable-hermes-agent) - Portable Windows desktop build of Hermes Agent that runs local models through LM Studio, with local TTS, music and ComfyUI image generation; no install, Docker or admin rights.
 - [Goose](https://github.com/block/goose) - Local, extensible agent that runs on your machine and works against any LLM backend, including Ollama and other self-hosted endpoints.
 - [Aider](https://github.com/Aider-AI/aider) - Terminal-based pair programming agent that edits code in your local git repo, with support for local models via Ollama and OpenAI-compatible servers.
 - [PydanticAI](https://github.com/pydantic/pydantic-ai) - Python agent framework by the Pydantic team, model-agnostic with Ollama support for local deployment.
