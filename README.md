@@ -106,6 +106,8 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 ## Agents & Orchestration
 > Frameworks for chaining private AI tools & agents.
 
+- [Kortix](https://kortix.com) - Open-source AI Operating System; a self-hosted agent platform where the agents, their skills, the company memory and the connector configuration are files in one git repo you own. Runs any model (Anthropic, OpenAI, Google or your own OpenAI-compatible endpoint) with your own keys, boots each session on its own isolated sandbox, and lands finished work as a reviewed change request.
+
 - [AG2](https://github.com/ag2ai/ag2) - Open-source operating system for agentic AI with native Ollama support for local model deployment and multi-agent collaboration.
 - [agentgateway](https://github.com/agentgateway/agentgateway) - Gateway for managing and orchestrating AI agents with support for local deployment.
 - [LangChain](https://www.langchain.com/) - Agent and LLM orchestration framework.
