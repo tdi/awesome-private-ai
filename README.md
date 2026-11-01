@@ -198,6 +198,9 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Node-based interface and backend for diffusion models, running image, video, and audio pipelines entirely locally.
 - [AUTOMATIC1111 Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - The most widely deployed self-hosted Stable Diffusion interface, with a large extension ecosystem.
 - [InvokeAI](https://github.com/invoke-ai/InvokeAI) - Professional-grade local generative image toolkit with a unified canvas and workflow editor.
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 
 
 ## Speech & Audio
