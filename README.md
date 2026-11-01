@@ -198,6 +198,15 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [ComfyUI](https://github.com/comfyanonymous/ComfyUI) - Node-based interface and backend for diffusion models, running image, video, and audio pipelines entirely locally.
 - [AUTOMATIC1111 Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - The most widely deployed self-hosted Stable Diffusion interface, with a large extension ecosystem.
 - [InvokeAI](https://github.com/invoke-ai/InvokeAI) - Professional-grade local generative image toolkit with a unified canvas and workflow editor.
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
+- [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev) - Independent unofficial AI dance effect: one photo → 13s widescreen solo dance video (Paid from $7.99; not affiliated with Riot Games or K/DA)
+- [A2O LITE NEON AI Dance](https://a2oliteai.org) - Independent AI: two photos → 15s neon duo dance video with reference soundtrack (Paid from $7.99)
+- [dime dime baby ai](https://dimedimebabyai.dev) - Independent AI dance effect: one photo → short 9:16 dance video with generated music (Paid from $7.99)
 
 
 ## Speech & Audio
