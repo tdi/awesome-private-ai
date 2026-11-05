@@ -106,6 +106,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 ## Agents & Orchestration
 > Frameworks for chaining private AI tools & agents.
 
+- [5dive](https://github.com/5dive-ai/5dive) - Self-hosted runtime that runs a team of agent CLIs as Linux services on your own server. Its local-only mode runs Claude Code agents on your own model (Ollama, LM Studio or vLLM) with no outside connections.
 - [AG2](https://github.com/ag2ai/ag2) - Open-source operating system for agentic AI with native Ollama support for local model deployment and multi-agent collaboration.
 - [agentgateway](https://github.com/agentgateway/agentgateway) - Gateway for managing and orchestrating AI agents with support for local deployment.
 - [LangChain](https://www.langchain.com/) - Agent and LLM orchestration framework.
