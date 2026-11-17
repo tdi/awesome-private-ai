@@ -190,6 +190,7 @@ Private AI enables you to keep your data, models, and infrastructure **under you
 - [text-generation-webui](https://github.com/oobabooga/text-generation-webui) - Long-standing Gradio web UI for local text generation, supporting llama.cpp, ExLlama, and transformers backends.
 - [SillyTavern](https://github.com/SillyTavern/SillyTavern) - Self-hosted, highly customizable frontend for local models, with extensive character, prompt, and context management.
 - [Screenpipe](https://github.com/screenpipe/screenpipe) - Source-available screen/audio history with local search and MCP; supports local Whisper transcription and Ollama, while configured cloud AI, transcription, sync, or integrations can send context off-device.
+- [Off Grid AI](https://github.com/off-grid-ai/OGAD) - Desktop app that runs chat, vision, image generation and voice fully on your machine with no account or cloud; serves the same models on a local OpenAI-compatible API.
 
 
 ## Image & Video Generation
